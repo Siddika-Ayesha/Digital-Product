@@ -58,3 +58,30 @@
     color: black;
     background-color: white;
 }
+.about-head{
+    text-align: center;
+    font-size: 60px;
+    margin-top: 15px;
+}
+.about-container{
+    display: flex;
+    justify-content:space-around;
+    height: 50vh;
+    align-items: center;
+    
+    
+}
+.about-photo{
+    width: 250px;
+}
+.btn2{
+    padding: 10px 20px;
+    background-color: red;
+    color: white;
+    border: none;
+    margin-top: 20px;
+}
+
+.about-text p{
+    margin-top: 20px;
+}
